@@ -5,7 +5,7 @@ Footer contact information social icon designs and hover effects.
 <br />
 <a href="https://designdrastic.com/post/demo/get-in-touch-contact-information-icon-designs-css"><strong>View Demo</strong></a>
 
-![Demo](/get-in-touch-contact-information-icon-designs-css)
+![Demo](/get-in-touch-contact-information-icon-designs-css.gif)
 
 # Terms of Use
 
